@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cosmin-andrei
-- 👀 I’m interested in programming and volunteering
-- 🌱 I’m currently learning python and asm
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning java and php
 - 📫 How to reach me cosmin.andrei.ac@gmail.com
 
 <!---
